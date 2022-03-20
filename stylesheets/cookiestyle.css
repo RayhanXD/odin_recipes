@@ -1,0 +1,44 @@
+
+* {
+    background-color: tan;
+}
+
+img {
+    width: 225px;
+    height:auto;
+}
+
+
+
+
+.descrip {
+    font-family: cursive; 
+    color: white;
+    font-size: 35px;
+}
+
+h2 {
+    font-family: cursive;
+    color: rgb(143, 58, 19);
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-decoration-style: wavy;
+}
+
+h1 {
+    font-family: cursive;
+    color: rgb(143, 58, 19);
+    font-size: 50px;
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-decoration-style: wavy;
+}
+
+.text {
+    font-family: cursive;
+    color: white;
+    font-size: 20px;
+}
+
+
+

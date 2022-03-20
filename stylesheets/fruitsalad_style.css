@@ -1,0 +1,41 @@
+
+body {
+    background-image: url(/home/rayhan/Downloads/saladbg.jpg);
+}
+
+.title {
+    color: rgb(136, 3, 3);
+    font-family: cursive;
+    font-size: 75px;
+    text-decoration: underline;
+    text-decoration-color: rgb(60, 60, 228);
+    text-decoration-style: wavy;
+}
+
+img {
+    width: 350px;
+    height:auto;
+    border-radius:700px/500px;
+}
+
+.subheading {
+    color: rgb(136, 3, 3);
+    font-family: cursive;
+    font-size: 55px;
+    text-decoration: underline;
+    text-decoration-color: rgb(60, 60, 228);
+    text-decoration-style: wavy;
+}
+
+#descrip {
+    color: rgb(60, 60, 228);
+    font-family: cursive;
+    font-size: 40px;
+}
+
+.text {
+    color:rgb(60, 60, 228);
+    font-family: cursive;
+    font-size: 25px;
+}
+
